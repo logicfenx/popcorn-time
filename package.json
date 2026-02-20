@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/popcorn-time",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a popcorn-time",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/popcorn-time.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://exe2aut.com/es/popcorn-time/"
+    },
+    "homepage": "https://exe2aut.com/es/popcorn-time/"
+}
